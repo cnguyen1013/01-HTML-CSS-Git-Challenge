@@ -7,7 +7,7 @@ This project was to refactor existing code (improving it without changing what i
 
 ## Main Site
 
-![alt text](https://github.com/cnguyen1013/01-HTML-CSS-Git-Challenge/tree/main/assets/images/main-site.png?raw=true)
+![Main Site](assets/images/main-site.png)
 
 
 ## License
