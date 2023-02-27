@@ -11,4 +11,4 @@ This project was to refactor existing code (improving it without changing what i
 
 ## Location of Repository
 
-TBD
+The source code is found in the index.html file, the css code can be found within assets/css/. All relevant images will be contained in the assets/images folder. 
