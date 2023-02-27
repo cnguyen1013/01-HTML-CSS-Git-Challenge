@@ -9,9 +9,6 @@ This project was to refactor existing code (improving it without changing what i
 
 ![Main Site](assets/images/main-site.png)
 
+## Location of Repository
 
-## License
-
-MIT License
-
-Please refer to the LICENSE in the repo.
+TBD
