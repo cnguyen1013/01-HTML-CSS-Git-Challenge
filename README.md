@@ -3,24 +3,11 @@ This contains the Module 1 challenge of the Rice Coding Bootcamp
 
 ## Description
 
-This is a short description explaining the what, why, and how of this project. 
+This project was to refactor existing code (improving it without changing what it does) to meet a certain set of standards or to implement a new technology is a common task for front-end and junior developers. A marketing agency has hired me to refactor an existing site to make it more accessible.
 
-- My motivation was because of this class
-- I built this project because of this class
-- The problem solves my blank knowledge of these topics
-- I learned a lot from this project
+## Acceptance Criteria
 
-## Installation
 
-N/A
-
-## Usage
-
- This contains notes about a certain topic, like HTML, CSS, JavaScript, Git. If DevTools console is open, we can see the JavaScript running. It will list the topics we learned from prework and choose one topic for us to study first. 
-
-## Credits
-
-N/A
 
 ## License
 
